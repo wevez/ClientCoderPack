@@ -8,3 +8,5 @@ Faster and less buggy than conventional MCP.
 - 4.When its process is finished, put the decompiled source into the src folder.
 You can get decompiled optifine source from [Optifine source](https://optifinesource.co.uk/).
 - 5.Open the folder with InteliJ and run Start.java!
+## This project contains following libraries.
+- [gson](https://github.com/google/gson) Parser for .json file.
