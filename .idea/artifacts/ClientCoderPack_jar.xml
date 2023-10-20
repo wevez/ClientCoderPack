@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientCoderPack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientCoderPack_jar</output-path>
+    <root id="archive" name="ClientCoderPack.jar">
+      <element id="module-output" name="ClientCoderPack" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="google.code.gson" />
+    </root>
+  </artifact>
+</component>
